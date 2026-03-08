@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="浮点数-身高英尺计算/浮点数-身高英尺计算.vcxproj" />
+</Solution>
